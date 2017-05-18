@@ -1,4 +1,4 @@
-package com.streeterstudio.democontactlist;
+package com.streeterstudio.democontactlist.model;
 
 /**
  * Created by leanh on 5/16/17.
