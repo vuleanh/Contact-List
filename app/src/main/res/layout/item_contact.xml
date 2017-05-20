@@ -29,13 +29,6 @@
             android:text="Anh Vu"
             android:textSize="16sp"
             android:textStyle="bold" />
-
-        <com.streeterstudio.democontactlist.StatusView
-            android:id="@+id/txt_contact_status"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="Offline"
-            android:textSize="14sp" />
     </LinearLayout>
 
 
